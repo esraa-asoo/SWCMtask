@@ -1,4 +1,4 @@
 
-1 line on the branch
+4 line on the branch
 2 line on the branch
 3 line after first push
