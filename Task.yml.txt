@@ -5,4 +5,5 @@ line3
 line 1 feat1
 ----EOD----
 
-line on the branch
+1 line on the branch
+2 line on the branch
